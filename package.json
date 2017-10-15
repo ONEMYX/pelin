@@ -1,0 +1,26 @@
+{
+  "name": "app4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "ejs-electron": "^2.0.1",
+    "electron-fetch": "^1.1.0",
+    "electron-router": "^0.4.1",
+    "jquery": "^3.2.1",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4",
+    "merge-json": "0.1.0-b.3",
+    "request": "^2.83.0",
+    "request-sync": "^1.0.0",
+    "sqlite-sync": "^0.3.6",
+    "squel": "^5.12.0"
+  }
+}

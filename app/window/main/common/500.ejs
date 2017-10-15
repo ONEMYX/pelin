@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Erro interno</title>
+
+        <link href="<%= dirs.assetsCss %>/bootstrap.min.css" rel="stylesheet">
+        <link href="<%= dirs.assetsFont_awesome %>/css/font-awesome.css" rel="stylesheet">
+
+        <link href="<%= dirs.assetsCss %>/animate.css" rel="stylesheet">
+        <link href="<%= dirs.assetsCss %>/style.css" rel="stylesheet">
+
+    </head>
+    <body class="gray-bg">
+        <div class="middle-box text-center animated fadeInDown">
+            <h1>500</h1>
+            <h3 class="font-bold">Error Interno</h3>
+            <div class="error-desc">
+                <% if(typeof message != "undefined")  { %>
+                    <%= message %> 
+                <% } else { %> 
+                    <%= "" %>
+                <% } %> 
+            </div>
+        </div>
+    </body>
+</html>

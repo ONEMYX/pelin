@@ -1,0 +1,13 @@
+{
+    "database" : {
+        "filename" : "database.db",
+        "tables" : []
+    },
+    "Controllers" : [
+        ["main", true],
+        ["about", true]
+    ],
+    "Models" : [
+        ["config", false]
+    ]
+}

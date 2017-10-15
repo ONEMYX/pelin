@@ -1,0 +1,22 @@
+{
+  "path": {
+    "root": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5",
+    "rootApp": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app",
+    "view": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/view",
+    "helper": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/helper",
+    "core": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/core",
+    "logs": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/logs",
+    "model": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/model",
+    "controller": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/controller",
+    "viewCore": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/viewCore",
+    "window": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/window",
+    "assets": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets",
+    "assetsFont_awesome": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets/font-awesome",
+    "assetsJs": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets/js",
+    "assetsCss": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets/css",
+    "assetsImg": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets/img",
+    "assetsFonts": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/assets/fonts",
+    "winMain": "C:\\Users\\Gabriel\\Documents\\Programacao\\ELECTRON\\app5/app/window/main"
+  },
+  "appModule": "e3g"
+}
