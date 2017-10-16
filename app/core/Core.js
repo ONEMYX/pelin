@@ -54,16 +54,6 @@ let Core = function () {
         this.connectDB();
 
         this.controller.main.index();
-
-        this.done = false;
-        let thisCore = this;
-        let callback = function (err, resp, body) {
-            thisCore.done = true;
-            console.log(body);
-        };
-        this.webRequest("post", "http://localhost/teste/t3.php", false, {data:"batata"}, callback);
-        while(!this.done) {};
-        console.log("D");
     };
     this.loader = (type, _name, nameInstance = [], toRenderCore = false) => {
         let _module = [];
